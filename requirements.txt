@@ -1,0 +1,13 @@
+streamlit
+pypdf
+langchain
+langchain-community
+torch
+accelerate
+bitsandbytes
+transformers
+sentence_transformers
+chromadb
+llama-cpp-python
+python-dotenv
+ctransformers
